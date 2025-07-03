@@ -15,7 +15,8 @@ This project features a variety of color-rich images, including:
 Each image celebrates diversity, creativity, and the pure joy of color.
 
 ## 📂 File Included
-- `Screenshot 2025-07-03 at 2.21.34 PM.png`  
+<img width="1470" alt="Screenshot 2025-07-03 at 2 21 34 PM" src="https://github.com/user-attachments/assets/3ed3be05-8765-456d-b58b-ddb6cc1672c1" />
+
 *(A high-resolution collage of all these vivid moments.)*
 
 ## 🚀 How to Use
